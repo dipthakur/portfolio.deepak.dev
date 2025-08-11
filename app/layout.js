@@ -12,7 +12,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-  title: "Protfolio",
+  title: "Deepak.dev",
   description: " ",
 };
 
